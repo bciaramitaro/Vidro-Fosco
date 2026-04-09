@@ -1,6 +1,6 @@
 # Vidro-Fosco
 
-An interactive Arduino and TouchDesigner installation prototype for animator Matilde Senos, created in collaboration with Yidi Chen. Combining animation, projection, and Pepper's Ghost technique to bring a fairy to life, the piece was designed as a proof-of-concept for audience testing during an interactive feedback session. Audience members interact with conductive props from the fairy's world — rocks and trees — each triggering a new animation stage and propelling the story forward.
+An interactive Arduino and TouchDesigner installation prototype for animator Matilde Senos, created in collaboration with Yidi Chen. Combining animation, projection, and Pepper's Ghost technique to bring a fairy to life, the piece was designed as a proof of concept for audience testing during an interactive feedback session. Audience members interact with conductive props from the fairy's world (rocks and trees), which trigger new animations and move the story forward.
 
 **Project documentation:** [bellaciaramitaro.com/vidro-fosco](https://www.bellaciaramitaro.com/vidro-fosco)
 

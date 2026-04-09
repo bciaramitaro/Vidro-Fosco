@@ -77,6 +77,6 @@ Each stage also triggers corresponding background and audio layers that play in 
 
 ### Collaborators
 
-- **Bella Ciaramitaro** — Arduino and interaction development
-- **Yidi Chen** — TouchDesigner animation system
-- **Matilde Senos** — Animation and creative direction
+- **Bella Ciaramitaro** 
+- **Yidi Chen** 
+- **Matilde Senos** 
